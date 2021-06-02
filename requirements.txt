@@ -137,7 +137,7 @@ txaio==18.7.1
 unicodecsv==0.14.1
 update==0.0.1
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
 w3lib==1.20.0
 wcwidth==0.1.7
 websocket-client==0.54.0
